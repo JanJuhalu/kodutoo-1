@@ -24,6 +24,7 @@ Projekt on tehtud HTML, CSS ja JavaScriptiga.
 
 Ekraanipilt
 
+<img width="1807" height="800" alt="image" src="https://github.com/user-attachments/assets/ee4bb5fe-2fd8-4d7a-8aa5-8d09942c5674" />
 
 
 Repositoorium
