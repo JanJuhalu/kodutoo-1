@@ -1,0 +1,60 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f1f;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#mainBox {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#clockBox {
+    width: 80%;
+    padding: 30px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+#weekDay {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+#clock {
+    font-size: 80px;
+    margin: 15px 0;
+}
+
+#date {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+#year {
+    font-size: 30px;
+}
+
+#buttons {
+    width: 80%;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 14px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+a {
+    color: lightblue;
+}
